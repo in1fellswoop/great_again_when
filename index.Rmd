@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Great Again, When?"
+author: "in1fellswoop"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
