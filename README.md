@@ -3,9 +3,9 @@ This is a template for creating an [HTML GitBook style](https://bookdown.org/yih
 ## Purpose
 This book will take a critical perspective on the history of the United States in hopes of answering the question *Great Again, When?*. This book, and this book's title serves as a response to the 'Make America Great Again', or 'MAGA', slogan that obtain notoriety starting in 2016 in the United States. 
 
-This book will attempt to determine when exactly America was 'great', and for who it was great for. Many are undoubtedly aware of the US's dubious history with racism and oppression, yet the MAGA slogan was abopted by a large swath of the American public. Lastly, by nature of pursuing the answer to the aforementioned questions, this book will also ascertain, to the best of its ability, as to why this movement gained so much traction over that last several years.
+This book will attempt to determine when exactly America was 'great', and for who it was great. Many are undoubtedly aware of the US's dubious history with racism and oppression, yet the MAGA slogan was abopted by a large swath of the American public. Lastly, by nature of pursuing the answer to the aforementioned questions, this book will also ascertain, to the best of its ability, as to why this movement gained so much traction over that last several years.
 
-Beyond the informational goals, this book will center around data, and the honest and full reporting of what is found. With that being said, this book and its content may grow and change drastically from its inception as more data gather and more research is conducted over time. 
+Beyond the informational goals, this book will center around data, and the honest and full reporting of what is found. With that being said, this book and its content may grow and change drastically from its inception as more data is gathered and more research is conducted over time. 
 
 ## Bookdown Acknowledgements
 
