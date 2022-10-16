@@ -3,6 +3,8 @@ title: "Great Again, When?"
 author: "in1fellswoop"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+bibliography: citations.bib
+link-citations: yes
 ---
 
 # Preface {-}
@@ -10,3 +12,7 @@ Although I may interject pieces of history prior to 1776 that may prove to be re
 
   1. Simplicity. This decision is partially arbitrary, as the nation's political, cultural, economical, and social patterns didn't pop into existence at our nation's inception, and as such would be delving into world and European history spanning centuries.
   2. The 'MAGA' phrase itself indicates that we should make "Make *America* Great Again", and as such, I will be sifting through American history to find the time period that America was great. 
+  
+Additionally, I will also seak to provide some guidelines on how we can operationalize, or define, the word 'great' in the context of evaluating a countries history. 
+  
+[@abortion_1600s]
