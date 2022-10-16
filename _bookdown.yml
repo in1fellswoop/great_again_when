@@ -6,3 +6,4 @@ view: https://github.com/in1fellswoop/great_again_when/blob/master/%s
 language:
   ui:
     chapter_name: "Chapter "
+rmd_files: ["index.Rmd", "01-founding.Rmd", "02-18th_century.Rmd", "03-19th_century.Rmd", "references.Rmd"]

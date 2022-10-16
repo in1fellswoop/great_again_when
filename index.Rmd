@@ -6,4 +6,7 @@ site: bookdown::bookdown_site
 ---
 
 # Preface {-}
+Although I may interject pieces of history prior to 1776 that may prove to be relevant, the bulk of my work will begin there. My reasoning is two fold:
 
+  1. Simplicity. This decision is partially arbitrary, as the nation's political, cultural, economical, and social patterns didn't pop into existence at our nation's inception, and as such would be delving into world and European history spanning centuries.
+  2. The 'MAGA' phrase itself indicates that we should make "Make *America* Great Again", and as such, I will be sifting through American history to find the time period that America was great. 
