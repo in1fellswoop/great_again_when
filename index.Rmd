@@ -8,11 +8,12 @@ link-citations: yes
 ---
 
 # Preface {-}
-Although I may interject pieces of history prior to 1776 that may prove to be relevant, the bulk of my work will begin there. My reasoning is two fold:
+My goal for this project, at the surface, is simple. I am evaluating the phrase 'Make America Great Again', but more specifically, what the statment presupposes: there was a time, before the present, where America was great.  With this in mind, To achieve this, I must do the following:
+  1. First, identify what 'greatness' is and what what constitutes a great country
+  2. Second, determine the time period for which America (as it's conceptualized today) became America
+  3. Third, scan through the time period outlined in step 2, to identify when America could meet the definition of a 'great' country as defined in step 1
+  
+I acknowledge that for some, steps 1, 2, and even 3, may seem unnecessary. For 1 and 2, it may seem like silly questions, and for step 3 some may have already made up their minds -- therefore seeing this entire project as unnecessary. However, I would disagree. Parsing this phrase, and the history that supports or denies it will be a very enlightening journey. 
 
-  1. Simplicity. This decision is partially arbitrary, as the nation's political, cultural, economical, and social patterns didn't pop into existence at our nation's inception, and as such would be delving into world and European history spanning centuries.
-  2. The 'MAGA' phrase itself indicates that we should make "Make *America* Great Again", and as such, I will be sifting through American history to find the time period that America was great. 
+With that being said, history can be dense, and that's because there's a lot of it. However, I will do my best to make the material as accessible, approachable, and interesting for those who stumble upon it.
   
-Additionally, I will also seak to provide some guidelines on how we can operationalize, or define, the word 'great' in the context of evaluating a countries history. 
-  
-[@abortion_1600s]

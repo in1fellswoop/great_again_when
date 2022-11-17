@@ -8,6 +8,7 @@ language:
     chapter_name: "Chapter "
 rmd_files: [
   "index.Rmd",
+  "foundations.Rmd",
   "founding.Rmd",
   "18th_century.Rmd", 
   "19th_century.Rmd",
